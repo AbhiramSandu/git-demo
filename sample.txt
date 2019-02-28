@@ -1,6 +1,11 @@
+
  this  my first file in to git hub hithi 
 this isecon note:wq1
 
 
  
+
+ this  my first file in to git hub :
+this is :Q 
+
  hello this is my second commit 
